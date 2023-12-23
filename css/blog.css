@@ -1,0 +1,15 @@
+.blog {
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
+
+.blog img {
+    width: 50%;
+}
+
+.left {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
