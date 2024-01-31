@@ -187,7 +187,7 @@ body {
 .contact-content::after {
     content: "";
     position: absolute;
-    background: url(/img/11.svg) no-repeat center center / cover;
+    background: url(../img/11.svg) no-repeat center center / cover;
     opacity: 0.2;
     width: 100%;
     z-index: -1;
