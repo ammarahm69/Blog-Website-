@@ -41,21 +41,6 @@
     margin-right: 20px;
     font-family: var(--font1);
 }
-.btn {
-    transition: all 0.3s ease-in-out;
-    cursor: pointer;
-    padding: 5px 8px;
-    border: 2px solid black;
-    border-radius: 6px;
-    font-family: var(--font1);
-    margin: 4px;
-    font-size: 11px;
-}
-
-.btn:hover {
-    color: white;
-    background-color: var(--main-bg-color);
-}
 .my-2{
     margin-top: 12px;
 }
@@ -65,3 +50,19 @@
     padding: 7px 14px;
     margin: 4px 10px;
 }
+
+    .btn {
+        transition: all 0.3s ease-in-out;
+        cursor: pointer;
+        padding: 5px 8px;
+        border: 2px solid black;
+        border-radius: 6px;
+        font-family: var(--font1);
+        margin: 4px;
+        font-size: 11px;
+    }
+    
+    .btn:hover {
+        color: white;
+        background-color: var(--main-bg-color);
+    }
